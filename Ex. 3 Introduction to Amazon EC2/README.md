@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: K RAGAPRIYAN
+* **Register Number**: 212225040323
+* **Date of Submission**: 18/11/2026
 
 ---
 
@@ -98,11 +98,23 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Opened the AWS Management Console and explored the Amazon EC2 dashboard.
+
+
+
+2. Launched an EC2 instance named Web Server using Amazon Linux 2023 and the t2.micro instance type.
+
+
+
+3. Checked the instance status, system log, and instance screenshot to verify successful booting and Apache installation.
+
+
+
+4. Configured the security group to allow HTTP traffic and verified the web server using its public IPv4 address.
+
+
+
+5. Modified the instance configuration by changing its type and storage, explored Service Quotas, and tested stop protection.
 
 ---
 
@@ -110,19 +122,21 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+![alt text](<Screenshot 2026-11-18 234311.png>)
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+![alt text](<Screenshot 2026-11-18 234336.png>)
+
+![alt text](<Screenshot 2026-11-18 234351.png>)
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+![alt text](<Screenshot 2026-11-18 234410.png>)
 
 ---
 
