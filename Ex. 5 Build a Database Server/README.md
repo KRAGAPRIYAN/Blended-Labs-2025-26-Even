@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: K RAGAPRIYAN
+* **Register Number**: 212225040323
+* **Date of Submission**: 20/11/2026
 
 ---
 
@@ -84,11 +84,17 @@ Test the database server by connecting to it locally or remotely and performing 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Launch an EC2 instance in AWS and configure the required instance type, operating system, and security group.
+
+2. Connect to the EC2 instance using SSH and update the system packages.
+
+3. Install a Database Management System (DBMS) such as MySQL or MariaDB on the EC2 instance.
+
+4. Configure the database server, create a sample database, and create a user with appropriate permissions.
+
+5. Verify the database server connectivity by connecting to the database and executing basic SQL queries.
+
+
 
 ---
 
@@ -96,19 +102,19 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+![alt text](<Screenshot 2026-11-22 224109.png>)
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+![alt text](<Screenshot 2026-11-22 224126.png>)
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+![alt text](<Screenshot 2026-11-22 224152.png>)
 
 ---
 
